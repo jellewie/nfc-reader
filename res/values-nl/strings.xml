@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2011 Adam Nybäck
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">NFC Reader</string>
+    <string name="intro_message">Dit is een eenvoudige app om verschillende tags te lezen (NDEF, RFID, FeliCa, ISO 14443, enz.). \n\nJe gebruikt het door een tag/kaart tegen de achterkant van uw apparaat te houden. \n\nLaat me het weten als je de data in een andere weergave wilt hebben. Je kunt me ook mailen (adam@anyro.se) als je problemen hebt met de app en ik laat het je weten wanneer ik het probleem heb opgelost. je kunt ook de broncode bekijken en problemen melden op https://github.com/nadam/nfc-reader.\n\nAls je geen enkele tag kan lezen probeer dan enkele van de andere NFC-apps op Google Play en laat me het weten als deze app de enige is die niet werkt. Bedankt! \n\n/Adam /nVertaald door JelleWho</string>
+    <string name="error">Error</string>
+    <string name="no_nfc">Geen NFC gevonden op dit apparaat</string>
+    <string name="nfc_disabled">NFC is niet ingeschakeld. Ga naar de draadloze instellingen om deze in te schakelen.</string>
+    <string name="menu_main_clear_title">Wis alles</string>
+    <string name="menu_main_copy">ID's kopiëren</string>
+    <string name="menu_copy_hex">Hex</string>
+    <string name="menu_copy_reversed_hex">Omgekeerde hex</string>
+    <string name="menu_copy_dec">Dec</string>
+    <string name="menu_copy_reversed_dec">Omgekeerde dec</string>
+    <string name="nothing_scanned">Nog niets gescand</string>
+</resources>
